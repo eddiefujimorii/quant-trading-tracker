@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>2027 New Grad Quant Trading Tracker</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>2027 New Grad Quant Trading Tracker</h1>
+  <p class="subtitle">Full-time, New Grad, Quant Trading roles &middot; Class of 2027 &middot; New York or Chicago only &middot; <a class="careers-link" href="rankings.html">View Firm Rankings &rarr;</a></p>
+  <p id="lastChecked" class="meta"></p>
+</header>
+
+<main>
+  <div class="controls">
+    <input id="search" type="text" placeholder="Search firm...">
+    <select id="tierFilter">
+      <option value="">All Tiers</option>
+      <option value="S">S</option>
+      <option value="A">A</option>
+      <option value="B">B</option>
+      <option value="C">C</option>
+      <option value="D">D</option>
+      <option value="F">F</option>
+    </select>
+    <select id="statusFilter">
+      <option value="">All Statuses</option>
+      <option value="open">Open Role Found</option>
+      <option value="unknown">Not Yet Checked / Unconfirmed</option>
+      <option value="closed">No Role Currently</option>
+    </select>
+  </div>
+
+  <table id="firmTable">
+    <thead>
+      <tr>
+        <th>Firm</th>
+        <th>Type</th>
+        <th>All Locations</th>
+        <th>NY/Chi</th>
+        <th>Tier</th>
+        <th>Status</th>
+        <th>Careers Page</th>
+      </tr>
+    </thead>
+    <tbody id="firmTableBody"></tbody>
+  </table>
+
+  <p class="disclaimer">
+    Status reflects the last automated check of each firm's careers page for a posting matching
+    "Full-Time New Grad Quant Trader, Class of 2027, NY/Chicago." Firms with no confirmed direct careers URL
+    link to a search query instead. This list updates once daily via a scheduled check &mdash; it is not a
+    live, real-time feed.
+  </p>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>
