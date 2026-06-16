@@ -1,92 +1,735 @@
 {
-  "lastChecked": null,
+  "lastChecked": "2026-06-16T18:21:53.452730+00:00",
   "criteria": "Full-time, New Grad, Quant Trading, Class of 2027, NY or Chicago only",
   "firms": [
-    {"name": "Bridgewater Associates", "city": "NYC", "allLocations": "Westport, CT | NYC | London", "type": "Hedge Fund (Macro)", "tier": "S", "careersUrl": "https://www.bridgewater.com/careers", "status": "unknown"},
-    {"name": "Citadel", "city": "NYC, Chicago", "allLocations": "NYC | Chicago | Miami | London | HK | Singapore | many more", "type": "Hedge Fund (Multi-Strategy)", "tier": "S", "careersUrl": "https://www.citadel.com/careers/", "status": "unknown"},
-    {"name": "DE Shaw Group", "city": "NYC", "allLocations": "NYC | London | Singapore", "type": "Hedge Fund (Quant)", "tier": "S", "careersUrl": "https://www.deshaw.com/careers", "status": "unknown"},
-    {"name": "DRW", "city": "NYC, Chicago", "allLocations": "Chicago (HQ) | NYC | Austin | London | Amsterdam | Singapore | many more", "type": "Prop Trading Firm", "tier": "S", "careersUrl": "https://drw.com/careers/", "status": "unknown"},
-    {"name": "Hudson River Trading (HRT)", "city": "NYC, Chicago", "allLocations": "Austin | Boston | Chicago | HK | London | NYC | Seattle | Singapore", "type": "Prop Trading Firm", "tier": "S", "careersUrl": "https://www.hudsonrivertrading.com/careers/", "status": "unknown"},
-    {"name": "IMC Trading", "city": "NYC, Chicago", "allLocations": "Chicago | NYC | London | HK | Amsterdam | Singapore", "type": "Prop Trading Firm / Market Maker", "tier": "S", "careersUrl": "https://careers.imc.com/", "status": "unknown"},
-    {"name": "Jane Street", "city": "NYC", "allLocations": "NYC (HQ) | London | HK | Amsterdam | Singapore", "type": "Prop Trading Firm", "tier": "S", "careersUrl": "https://www.janestreet.com/join-jane-street/", "status": "unknown"},
-    {"name": "Jump Trading", "city": "NYC, Chicago", "allLocations": "Chicago (HQ) | London | Amsterdam | Paris | NYC | Austin | HK", "type": "Prop Trading Firm", "tier": "S", "careersUrl": "https://www.jumptrading.com/careers/", "status": "unknown"},
-    {"name": "Millennium Management", "city": "NYC", "allLocations": "NYC (HQ) | London | HK", "type": "Hedge Fund (Multi-Strategy)", "tier": "S", "careersUrl": "https://www.millenniumcareers.com/", "status": "unknown"},
-    {"name": "Optiver", "city": "Chicago", "allLocations": "Amsterdam (HQ) | Chicago | Sydney | Austin | London | Shanghai", "type": "Prop Trading Firm / Market Maker", "tier": "S", "careersUrl": "https://optiver.com/working-at-optiver/career-opportunities/", "status": "unknown"},
-    {"name": "Point72 Asset Management", "city": "NYC", "allLocations": "Stamford, CT (HQ) | NYC | London", "type": "Hedge Fund (Multi-Strategy)", "tier": "S", "careersUrl": "https://www.point72.com/careers/", "status": "unknown"},
-    {"name": "Renaissance Technologies", "city": "NYC", "allLocations": "East Setauket, NY | NYC", "type": "Hedge Fund (Quant)", "tier": "S", "careersUrl": "https://www.rentec.com/Careers.action", "status": "unknown"},
-    {"name": "Susquehanna (SIG)", "city": "NYC, Chicago", "allLocations": "Bala Cynwyd, PA (HQ) | Chicago | NYC | SF | Boston | Philly | London | Dublin", "type": "Prop Trading Firm", "tier": "S", "careersUrl": "https://careers.sig.com/", "status": "unknown"},
-    {"name": "Tower Research", "city": "NYC, Chicago", "allLocations": "NYC (HQ) | Chicago | London | HK | Singapore", "type": "Prop Trading Firm", "tier": "S", "careersUrl": "https://www.tower-research.com/careers", "status": "unknown"},
-    {"name": "Two Sigma", "city": "NYC, Chicago", "allLocations": "NYC (HQ) | Houston | Chicago | London | Tokyo | HK", "type": "Hedge Fund (Quant)", "tier": "S", "careersUrl": "https://www.twosigma.com/careers/", "status": "unknown"},
-    {"name": "XTX Markets", "city": "NYC", "allLocations": "London (HQ) | NYC", "type": "Prop Trading Firm / Market Maker", "tier": "S", "careersUrl": "https://www.xtxmarkets.com/careers/", "status": "unknown"},
-
-    {"name": "Akuna Capital", "city": "Chicago", "allLocations": "Chicago (HQ) | London | HK | Sydney", "type": "Prop Trading Firm", "tier": "A", "careersUrl": "https://akunacapital.com/careers", "status": "unknown"},
-    {"name": "AlphaGrep", "city": "Chicago", "allLocations": "Singapore (HQ) | Shanghai | Chicago | London | India | Switzerland", "type": "Prop Trading Firm / Quant", "tier": "A", "careersUrl": null, "status": "unknown"},
-    {"name": "Aspect Capital", "city": "NYC", "allLocations": "London (HQ) | NYC", "type": "Hedge Fund (Systematic)", "tier": "A", "careersUrl": null, "status": "unknown"},
-    {"name": "Balyasny Asset Management (BAM)", "city": "NYC, Chicago", "allLocations": "Chicago (HQ) | NYC | London | Austin | Boston | Greenwich | HK | Houston", "type": "Hedge Fund (Multi-Strategy)", "tier": "A", "careersUrl": null, "status": "unknown"},
-    {"name": "Chicago Trading Company", "city": "Chicago", "allLocations": "Chicago (HQ) | London | HK", "type": "Prop Trading Firm", "tier": "A", "careersUrl": "https://www.chicagotrading.com/careers", "status": "unknown"},
-    {"name": "Element Capital", "city": "NYC", "allLocations": "Greenwich, CT | NYC | London", "type": "Hedge Fund (Macro)", "tier": "A", "careersUrl": null, "status": "unknown"},
-    {"name": "Elliott Management", "city": "NYC", "allLocations": "NYC (HQ) | London | HK", "type": "Hedge Fund (Multi-Strategy)", "tier": "A", "careersUrl": null, "status": "unknown"},
-    {"name": "Five Rings Capital", "city": "NYC", "allLocations": "NYC (HQ) | London | Amsterdam", "type": "Prop Trading Firm", "tier": "A", "careersUrl": null, "status": "unknown"},
-    {"name": "Flow Traders", "city": "NYC, Chicago", "allLocations": "Amsterdam (HQ) | Chicago | NYC | London | HK | Singapore", "type": "Prop Trading Firm / Market Maker", "tier": "A", "careersUrl": "https://careers.flowtraders.com/", "status": "unknown"},
-    {"name": "Marshall Wace", "city": "NYC", "allLocations": "London (HQ) | NYC | HK | Singapore", "type": "Hedge Fund", "tier": "A", "careersUrl": "https://www.mwam.com/careers", "status": "unknown"},
-    {"name": "Maven Securities", "city": "Chicago", "allLocations": "London (HQ) | Amsterdam | Chicago", "type": "Prop Trading Firm / Market Maker", "tier": "A", "careersUrl": null, "status": "unknown"},
-    {"name": "Radix Trading", "city": "NYC, Chicago", "allLocations": "Chicago (HQ) | NYC | Amsterdam", "type": "Prop Trading Firm", "tier": "A", "careersUrl": null, "status": "unknown"},
-    {"name": "Rokos Capital Management", "city": "NYC", "allLocations": "London (HQ) | NYC | Singapore", "type": "Hedge Fund (Macro)", "tier": "A", "careersUrl": null, "status": "unknown"},
-    {"name": "Schonfeld Strategic Advisors", "city": "NYC", "allLocations": "NYC (HQ) | Miami | HK", "type": "Hedge Fund (Multi-Strategy)", "tier": "A", "careersUrl": "https://www.schonfeld.com/careers", "status": "unknown"},
-    {"name": "Squarepoint Capital", "city": "NYC", "allLocations": "London (HQ) | Montreal | Jersey | NYC | Warsaw | HK", "type": "Hedge Fund (Quant)", "tier": "A", "careersUrl": "https://www.squarepoint-capital.com/careers", "status": "unknown"},
-    {"name": "Teza Technologies", "city": "NYC, Chicago", "allLocations": "Chicago (HQ) | London | NYC | Austin", "type": "Prop Trading Firm", "tier": "A", "careersUrl": null, "status": "unknown"},
-    {"name": "Tudor Investment Corp", "city": "NYC", "allLocations": "Greenwich, CT (HQ) | NYC | Stamford | London", "type": "Hedge Fund (Macro)", "tier": "A", "careersUrl": null, "status": "unknown"},
-    {"name": "Verition Fund Management", "city": "NYC", "allLocations": "Greenwich, CT (HQ) | NYC | London | HK | Singapore", "type": "Hedge Fund (Multi-Strategy)", "tier": "A", "careersUrl": null, "status": "unknown"},
-    {"name": "Virtu", "city": "NYC", "allLocations": "NYC (HQ) | Singapore | Austin | Dublin", "type": "Prop Trading Firm / Market Maker", "tier": "A", "careersUrl": "https://www.virtu.com/careers/", "status": "unknown"},
-    {"name": "Walleye Capital", "city": "NYC, Chicago", "allLocations": "Minneapolis (HQ) | NYC | London | Chicago | Boston | SF", "type": "Hedge Fund (Multi-Strategy)", "tier": "A", "careersUrl": null, "status": "unknown"},
-    {"name": "WorldQuant", "city": "NYC, Chicago", "allLocations": "Greenwich, CT (HQ) | NYC | Chicago | Austin | Miami | SF | Shanghai | Paris | London", "type": "Hedge Fund (Quant) / Quant Research", "tier": "A", "careersUrl": "https://www.worldquant.com/careers/", "status": "unknown"},
-
-    {"name": "Arrowstreet Capital", "city": "NYC", "allLocations": "Boston (HQ) | NYC | London", "type": "Hedge Fund (Quant)", "tier": "B", "careersUrl": null, "status": "unknown"},
-    {"name": "Belvedere Trading", "city": "NYC, Chicago", "allLocations": "Chicago (HQ) | Boulder | NYC | Singapore", "type": "Prop Trading Firm", "tier": "B", "careersUrl": null, "status": "unknown"},
-    {"name": "Boerboel Trading", "city": "NYC, Chicago", "allLocations": "London (HQ) | Chicago | NYC", "type": "Prop Trading Firm", "tier": "B", "careersUrl": null, "status": "unknown"},
-    {"name": "Caxton Associates", "city": "NYC", "allLocations": "NYC (HQ) | London", "type": "Hedge Fund (Macro)", "tier": "B", "careersUrl": null, "status": "unknown"},
-    {"name": "DV Trading", "city": "NYC, Chicago", "allLocations": "Chicago (HQ) | London | NYC | Bahamas | Toronto", "type": "Prop Trading Firm", "tier": "B", "careersUrl": null, "status": "unknown"},
-    {"name": "Eisler Capital", "city": "NYC", "allLocations": "London (HQ) | NYC", "type": "Hedge Fund (Multi-Strategy)", "tier": "B", "careersUrl": null, "status": "unknown"},
-    {"name": "Epoch Capital", "city": "NYC", "allLocations": "Sydney (HQ) | London | NYC", "type": "Hedge Fund", "tier": "B", "careersUrl": null, "status": "unknown"},
-    {"name": "ExodusPoint Capital Management", "city": "NYC", "allLocations": "NYC (HQ) | London", "type": "Hedge Fund (Multi-Strategy)", "tier": "B", "careersUrl": null, "status": "unknown"},
-    {"name": "GSA Capital Partners", "city": "NYC", "allLocations": "London (HQ) | NYC", "type": "Hedge Fund (Quant)", "tier": "B", "careersUrl": null, "status": "unknown"},
-    {"name": "Gelber Group", "city": "NYC, Chicago", "allLocations": "Chicago (HQ) | NYC | Amsterdam", "type": "Prop Trading Firm", "tier": "B", "careersUrl": null, "status": "unknown"},
-    {"name": "Geneva Trading", "city": "Chicago", "allLocations": "Chicago (HQ) | London", "type": "Prop Trading Firm", "tier": "B", "careersUrl": null, "status": "unknown"},
-    {"name": "Headlands Technologies", "city": "NYC, Chicago", "allLocations": "Chicago (HQ) | NYC | Austin | Amsterdam | London | Singapore", "type": "Prop Trading Firm / Market Maker", "tier": "B", "careersUrl": null, "status": "unknown"},
-    {"name": "Hudson Bay Capital", "city": "NYC", "allLocations": "NYC (HQ) | Minneapolis", "type": "Hedge Fund (Multi-Strategy)", "tier": "B", "careersUrl": null, "status": "unknown"},
-    {"name": "Man AHL (Man Group)", "city": "NYC", "allLocations": "London (HQ) | NYC | HK", "type": "Hedge Fund (Quant)", "tier": "B", "careersUrl": null, "status": "unknown"},
-    {"name": "Moore Capital Management", "city": "NYC", "allLocations": "NYC", "type": "Hedge Fund (Macro)", "tier": "B", "careersUrl": null, "status": "unknown"},
-    {"name": "Old Mission Capital", "city": "NYC, Chicago", "allLocations": "Chicago (HQ) | London | NYC", "type": "Prop Trading Firm / Market Maker", "tier": "B", "careersUrl": null, "status": "unknown"},
-    {"name": "Paloma Partners", "city": "NYC", "allLocations": "Greenwich, CT (HQ) | NYC | London | Singapore", "type": "Hedge Fund / Prop", "tier": "B", "careersUrl": null, "status": "unknown"},
-    {"name": "Peak6", "city": "Chicago", "allLocations": "Chicago (HQ) | All US | Switzerland", "type": "Prop Trading Firm / Investment Firm", "tier": "B", "careersUrl": "https://www.peak6.com/careers/", "status": "unknown"},
-    {"name": "Pharo Management", "city": "NYC", "allLocations": "London (HQ) | NYC", "type": "Hedge Fund (Macro)", "tier": "B", "careersUrl": null, "status": "unknown"},
-    {"name": "Quantbot Technologies", "city": "NYC", "allLocations": "NYC (HQ) | London", "type": "Hedge Fund (Quant)", "tier": "B", "careersUrl": null, "status": "unknown"},
-
-    {"name": "Third Point", "city": "NYC", "allLocations": "NYC (HQ) | LA | Stamford | HK", "type": "Hedge Fund", "tier": "C", "careersUrl": null, "status": "unknown"},
-    {"name": "Tradelink Holdings", "city": "Chicago", "allLocations": "Chicago", "type": "Prop Trading Firm", "tier": "C", "careersUrl": null, "status": "unknown"},
-    {"name": "Trillium Trading", "city": "NYC, Chicago", "allLocations": "NYC (HQ) | Chicago | Miami", "type": "Prop Trading Firm", "tier": "C", "careersUrl": null, "status": "unknown"},
-    {"name": "Valkyrie Trading", "city": "Chicago", "allLocations": "Chicago", "type": "Prop Trading Firm", "tier": "C", "careersUrl": null, "status": "unknown"},
-    {"name": "Winton Capital Management", "city": "NYC", "allLocations": "London (HQ) | NYC | HK | Sydney", "type": "Hedge Fund (Quant)", "tier": "C", "careersUrl": null, "status": "unknown"},
-    {"name": "XR Trading", "city": "NYC, Chicago (All US)", "allLocations": "Chicago (HQ) | All US | London", "type": "Prop Trading Firm", "tier": "C", "careersUrl": null, "status": "unknown"},
-    {"name": "Anchorage Capital", "city": "NYC", "allLocations": "NYC (HQ) | London", "type": "Hedge Fund (Credit/Distressed)", "tier": "C", "careersUrl": null, "status": "unknown"},
-    {"name": "Capstone Investment Advisors", "city": "NYC", "allLocations": "NYC (HQ) | Boston", "type": "Hedge Fund (Volatility)", "tier": "C", "careersUrl": null, "status": "unknown"},
-    {"name": "Consolidated Trading", "city": "Chicago", "allLocations": "Chicago", "type": "Prop Trading Firm", "tier": "C", "careersUrl": null, "status": "unknown"},
-    {"name": "G-Research", "city": "NYC", "allLocations": "London (HQ) | NYC", "type": "Quant Research Firm", "tier": "C", "careersUrl": "https://www.gresearch.com/careers/", "status": "unknown"},
-    {"name": "Grahm Capital Management", "city": "NYC", "allLocations": "Greenwich, CT (HQ) | NYC | CT | Palm Beach | London", "type": "Hedge Fund (Macro)", "tier": "C", "careersUrl": null, "status": "unknown"},
-    {"name": "HAP Capital", "city": "NYC", "allLocations": "NYC", "type": "Prop Trading Firm", "tier": "C", "careersUrl": null, "status": "unknown"},
-    {"name": "Istra Research", "city": "NYC", "allLocations": "NYC | Israel", "type": "Quant Research Firm", "tier": "C", "careersUrl": null, "status": "unknown"},
-    {"name": "QVT Financial", "city": "NYC", "allLocations": "Greenwich, CT | NYC", "type": "Hedge Fund", "tier": "C", "careersUrl": null, "status": "unknown"},
-    {"name": "Quant Lab", "city": "NYC", "allLocations": "Houston (HQ) | Denver | Austin | NYC | Singapore", "type": "Prop Trading Firm / Quant", "tier": "C", "careersUrl": null, "status": "unknown"},
-    {"name": "ReadyState Asset Management", "city": "NYC, Chicago", "allLocations": "Chicago (HQ) | NYC", "type": "Quant Asset Manager", "tier": "C", "careersUrl": null, "status": "unknown"},
-    {"name": "Sunrise Futures", "city": "Chicago", "allLocations": "Chicago", "type": "Prop Trading Firm", "tier": "C", "careersUrl": null, "status": "unknown"},
-    {"name": "TransMarket Group (TMG)", "city": "Chicago", "allLocations": "Chicago (HQ) | Switzerland", "type": "Prop Trading Firm", "tier": "C", "careersUrl": null, "status": "unknown"},
-    {"name": "Vatic Labs", "city": "NYC", "allLocations": "NYC", "type": "Prop Trading Firm / Quant", "tier": "C", "careersUrl": null, "status": "unknown"},
-
-    {"name": "Lone Pine Capital", "city": "NYC", "allLocations": "Greenwich, CT (HQ) | NYC", "type": "Hedge Fund (Long/Short Equity)", "tier": "D", "careersUrl": null, "status": "unknown"},
-    {"name": "Wolverine Trading", "city": "NYC, Chicago", "allLocations": "Chicago (HQ) | NYC | SF | London", "type": "Prop Trading Firm", "tier": "D", "careersUrl": null, "status": "unknown"},
-
-    {"name": "Alyeska Investment Group", "city": "NYC", "allLocations": "Chicago (HQ) | NYC | London | Tokyo", "type": "Hedge Fund", "tier": "F", "careersUrl": null, "status": "unknown"},
-    {"name": "Viking Global Advisors", "city": "NYC", "allLocations": "Greenwich, CT (HQ) | NYC | Stamford | London | HK", "type": "Hedge Fund (Long/Short Equity)", "tier": "F", "careersUrl": null, "status": "unknown"},
-    {"name": "Volant Trading", "city": "NYC, Chicago", "allLocations": "NYC (HQ) | Chicago | HK", "type": "Prop Trading Firm", "tier": "F", "careersUrl": null, "status": "unknown"}
+    {
+      "name": "Bridgewater Associates",
+      "city": "NYC",
+      "allLocations": "Westport, CT | NYC | London",
+      "type": "Hedge Fund (Macro)",
+      "tier": "S",
+      "careersUrl": "https://www.bridgewater.com/careers",
+      "status": "closed"
+    },
+    {
+      "name": "Citadel",
+      "city": "NYC, Chicago",
+      "allLocations": "NYC | Chicago | Miami | London | HK | Singapore | many more",
+      "type": "Hedge Fund (Multi-Strategy)",
+      "tier": "S",
+      "careersUrl": "https://www.citadel.com/careers/",
+      "status": "unknown"
+    },
+    {
+      "name": "DE Shaw Group",
+      "city": "NYC",
+      "allLocations": "NYC | London | Singapore",
+      "type": "Hedge Fund (Quant)",
+      "tier": "S",
+      "careersUrl": "https://www.deshaw.com/careers",
+      "status": "closed"
+    },
+    {
+      "name": "DRW",
+      "city": "NYC, Chicago",
+      "allLocations": "Chicago (HQ) | NYC | Austin | London | Amsterdam | Singapore | many more",
+      "type": "Prop Trading Firm",
+      "tier": "S",
+      "careersUrl": "https://drw.com/careers/",
+      "status": "closed"
+    },
+    {
+      "name": "Hudson River Trading (HRT)",
+      "city": "NYC, Chicago",
+      "allLocations": "Austin | Boston | Chicago | HK | London | NYC | Seattle | Singapore",
+      "type": "Prop Trading Firm",
+      "tier": "S",
+      "careersUrl": "https://www.hudsonrivertrading.com/careers/",
+      "status": "closed"
+    },
+    {
+      "name": "IMC Trading",
+      "city": "NYC, Chicago",
+      "allLocations": "Chicago | NYC | London | HK | Amsterdam | Singapore",
+      "type": "Prop Trading Firm / Market Maker",
+      "tier": "S",
+      "careersUrl": "https://careers.imc.com/",
+      "status": "closed"
+    },
+    {
+      "name": "Jane Street",
+      "city": "NYC",
+      "allLocations": "NYC (HQ) | London | HK | Amsterdam | Singapore",
+      "type": "Prop Trading Firm",
+      "tier": "S",
+      "careersUrl": "https://www.janestreet.com/join-jane-street/",
+      "status": "closed"
+    },
+    {
+      "name": "Jump Trading",
+      "city": "NYC, Chicago",
+      "allLocations": "Chicago (HQ) | London | Amsterdam | Paris | NYC | Austin | HK",
+      "type": "Prop Trading Firm",
+      "tier": "S",
+      "careersUrl": "https://www.jumptrading.com/careers/",
+      "status": "closed"
+    },
+    {
+      "name": "Millennium Management",
+      "city": "NYC",
+      "allLocations": "NYC (HQ) | London | HK",
+      "type": "Hedge Fund (Multi-Strategy)",
+      "tier": "S",
+      "careersUrl": "https://www.millenniumcareers.com/",
+      "status": "closed"
+    },
+    {
+      "name": "Optiver",
+      "city": "Chicago",
+      "allLocations": "Amsterdam (HQ) | Chicago | Sydney | Austin | London | Shanghai",
+      "type": "Prop Trading Firm / Market Maker",
+      "tier": "S",
+      "careersUrl": "https://optiver.com/working-at-optiver/career-opportunities/",
+      "status": "closed"
+    },
+    {
+      "name": "Point72 Asset Management",
+      "city": "NYC",
+      "allLocations": "Stamford, CT (HQ) | NYC | London",
+      "type": "Hedge Fund (Multi-Strategy)",
+      "tier": "S",
+      "careersUrl": "https://www.point72.com/careers/",
+      "status": "unknown"
+    },
+    {
+      "name": "Renaissance Technologies",
+      "city": "NYC",
+      "allLocations": "East Setauket, NY | NYC",
+      "type": "Hedge Fund (Quant)",
+      "tier": "S",
+      "careersUrl": "https://www.rentec.com/Careers.action",
+      "status": "closed"
+    },
+    {
+      "name": "Susquehanna (SIG)",
+      "city": "NYC, Chicago",
+      "allLocations": "Bala Cynwyd, PA (HQ) | Chicago | NYC | SF | Boston | Philly | London | Dublin",
+      "type": "Prop Trading Firm",
+      "tier": "S",
+      "careersUrl": "https://careers.sig.com/",
+      "status": "closed"
+    },
+    {
+      "name": "Tower Research",
+      "city": "NYC, Chicago",
+      "allLocations": "NYC (HQ) | Chicago | London | HK | Singapore",
+      "type": "Prop Trading Firm",
+      "tier": "S",
+      "careersUrl": "https://www.tower-research.com/careers",
+      "status": "closed"
+    },
+    {
+      "name": "Two Sigma",
+      "city": "NYC, Chicago",
+      "allLocations": "NYC (HQ) | Houston | Chicago | London | Tokyo | HK",
+      "type": "Hedge Fund (Quant)",
+      "tier": "S",
+      "careersUrl": "https://www.twosigma.com/careers/",
+      "status": "closed"
+    },
+    {
+      "name": "XTX Markets",
+      "city": "NYC",
+      "allLocations": "London (HQ) | NYC",
+      "type": "Prop Trading Firm / Market Maker",
+      "tier": "S",
+      "careersUrl": "https://www.xtxmarkets.com/careers/",
+      "status": "closed"
+    },
+    {
+      "name": "Akuna Capital",
+      "city": "Chicago",
+      "allLocations": "Chicago (HQ) | London | HK | Sydney",
+      "type": "Prop Trading Firm",
+      "tier": "A",
+      "careersUrl": "https://akunacapital.com/careers",
+      "status": "closed"
+    },
+    {
+      "name": "AlphaGrep",
+      "city": "Chicago",
+      "allLocations": "Singapore (HQ) | Shanghai | Chicago | London | India | Switzerland",
+      "type": "Prop Trading Firm / Quant",
+      "tier": "A",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Aspect Capital",
+      "city": "NYC",
+      "allLocations": "London (HQ) | NYC",
+      "type": "Hedge Fund (Systematic)",
+      "tier": "A",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Balyasny Asset Management (BAM)",
+      "city": "NYC, Chicago",
+      "allLocations": "Chicago (HQ) | NYC | London | Austin | Boston | Greenwich | HK | Houston",
+      "type": "Hedge Fund (Multi-Strategy)",
+      "tier": "A",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Chicago Trading Company",
+      "city": "Chicago",
+      "allLocations": "Chicago (HQ) | London | HK",
+      "type": "Prop Trading Firm",
+      "tier": "A",
+      "careersUrl": "https://www.chicagotrading.com/careers",
+      "status": "closed"
+    },
+    {
+      "name": "Element Capital",
+      "city": "NYC",
+      "allLocations": "Greenwich, CT | NYC | London",
+      "type": "Hedge Fund (Macro)",
+      "tier": "A",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Elliott Management",
+      "city": "NYC",
+      "allLocations": "NYC (HQ) | London | HK",
+      "type": "Hedge Fund (Multi-Strategy)",
+      "tier": "A",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Five Rings Capital",
+      "city": "NYC",
+      "allLocations": "NYC (HQ) | London | Amsterdam",
+      "type": "Prop Trading Firm",
+      "tier": "A",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Flow Traders",
+      "city": "NYC, Chicago",
+      "allLocations": "Amsterdam (HQ) | Chicago | NYC | London | HK | Singapore",
+      "type": "Prop Trading Firm / Market Maker",
+      "tier": "A",
+      "careersUrl": "https://careers.flowtraders.com/",
+      "status": "unknown"
+    },
+    {
+      "name": "Marshall Wace",
+      "city": "NYC",
+      "allLocations": "London (HQ) | NYC | HK | Singapore",
+      "type": "Hedge Fund",
+      "tier": "A",
+      "careersUrl": "https://www.mwam.com/careers",
+      "status": "unknown"
+    },
+    {
+      "name": "Maven Securities",
+      "city": "Chicago",
+      "allLocations": "London (HQ) | Amsterdam | Chicago",
+      "type": "Prop Trading Firm / Market Maker",
+      "tier": "A",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Radix Trading",
+      "city": "NYC, Chicago",
+      "allLocations": "Chicago (HQ) | NYC | Amsterdam",
+      "type": "Prop Trading Firm",
+      "tier": "A",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Rokos Capital Management",
+      "city": "NYC",
+      "allLocations": "London (HQ) | NYC | Singapore",
+      "type": "Hedge Fund (Macro)",
+      "tier": "A",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Schonfeld Strategic Advisors",
+      "city": "NYC",
+      "allLocations": "NYC (HQ) | Miami | HK",
+      "type": "Hedge Fund (Multi-Strategy)",
+      "tier": "A",
+      "careersUrl": "https://www.schonfeld.com/careers",
+      "status": "closed"
+    },
+    {
+      "name": "Squarepoint Capital",
+      "city": "NYC",
+      "allLocations": "London (HQ) | Montreal | Jersey | NYC | Warsaw | HK",
+      "type": "Hedge Fund (Quant)",
+      "tier": "A",
+      "careersUrl": "https://www.squarepoint-capital.com/careers",
+      "status": "unknown"
+    },
+    {
+      "name": "Teza Technologies",
+      "city": "NYC, Chicago",
+      "allLocations": "Chicago (HQ) | London | NYC | Austin",
+      "type": "Prop Trading Firm",
+      "tier": "A",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Tudor Investment Corp",
+      "city": "NYC",
+      "allLocations": "Greenwich, CT (HQ) | NYC | Stamford | London",
+      "type": "Hedge Fund (Macro)",
+      "tier": "A",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Verition Fund Management",
+      "city": "NYC",
+      "allLocations": "Greenwich, CT (HQ) | NYC | London | HK | Singapore",
+      "type": "Hedge Fund (Multi-Strategy)",
+      "tier": "A",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Virtu",
+      "city": "NYC",
+      "allLocations": "NYC (HQ) | Singapore | Austin | Dublin",
+      "type": "Prop Trading Firm / Market Maker",
+      "tier": "A",
+      "careersUrl": "https://www.virtu.com/careers/",
+      "status": "closed"
+    },
+    {
+      "name": "Walleye Capital",
+      "city": "NYC, Chicago",
+      "allLocations": "Minneapolis (HQ) | NYC | London | Chicago | Boston | SF",
+      "type": "Hedge Fund (Multi-Strategy)",
+      "tier": "A",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "WorldQuant",
+      "city": "NYC, Chicago",
+      "allLocations": "Greenwich, CT (HQ) | NYC | Chicago | Austin | Miami | SF | Shanghai | Paris | London",
+      "type": "Hedge Fund (Quant) / Quant Research",
+      "tier": "A",
+      "careersUrl": "https://www.worldquant.com/careers/",
+      "status": "closed"
+    },
+    {
+      "name": "Arrowstreet Capital",
+      "city": "NYC",
+      "allLocations": "Boston (HQ) | NYC | London",
+      "type": "Hedge Fund (Quant)",
+      "tier": "B",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Belvedere Trading",
+      "city": "NYC, Chicago",
+      "allLocations": "Chicago (HQ) | Boulder | NYC | Singapore",
+      "type": "Prop Trading Firm",
+      "tier": "B",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Boerboel Trading",
+      "city": "NYC, Chicago",
+      "allLocations": "London (HQ) | Chicago | NYC",
+      "type": "Prop Trading Firm",
+      "tier": "B",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Caxton Associates",
+      "city": "NYC",
+      "allLocations": "NYC (HQ) | London",
+      "type": "Hedge Fund (Macro)",
+      "tier": "B",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "DV Trading",
+      "city": "NYC, Chicago",
+      "allLocations": "Chicago (HQ) | London | NYC | Bahamas | Toronto",
+      "type": "Prop Trading Firm",
+      "tier": "B",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Eisler Capital",
+      "city": "NYC",
+      "allLocations": "London (HQ) | NYC",
+      "type": "Hedge Fund (Multi-Strategy)",
+      "tier": "B",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Epoch Capital",
+      "city": "NYC",
+      "allLocations": "Sydney (HQ) | London | NYC",
+      "type": "Hedge Fund",
+      "tier": "B",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "ExodusPoint Capital Management",
+      "city": "NYC",
+      "allLocations": "NYC (HQ) | London",
+      "type": "Hedge Fund (Multi-Strategy)",
+      "tier": "B",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "GSA Capital Partners",
+      "city": "NYC",
+      "allLocations": "London (HQ) | NYC",
+      "type": "Hedge Fund (Quant)",
+      "tier": "B",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Gelber Group",
+      "city": "NYC, Chicago",
+      "allLocations": "Chicago (HQ) | NYC | Amsterdam",
+      "type": "Prop Trading Firm",
+      "tier": "B",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Geneva Trading",
+      "city": "Chicago",
+      "allLocations": "Chicago (HQ) | London",
+      "type": "Prop Trading Firm",
+      "tier": "B",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Headlands Technologies",
+      "city": "NYC, Chicago",
+      "allLocations": "Chicago (HQ) | NYC | Austin | Amsterdam | London | Singapore",
+      "type": "Prop Trading Firm / Market Maker",
+      "tier": "B",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Hudson Bay Capital",
+      "city": "NYC",
+      "allLocations": "NYC (HQ) | Minneapolis",
+      "type": "Hedge Fund (Multi-Strategy)",
+      "tier": "B",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Man AHL (Man Group)",
+      "city": "NYC",
+      "allLocations": "London (HQ) | NYC | HK",
+      "type": "Hedge Fund (Quant)",
+      "tier": "B",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Moore Capital Management",
+      "city": "NYC",
+      "allLocations": "NYC",
+      "type": "Hedge Fund (Macro)",
+      "tier": "B",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Old Mission Capital",
+      "city": "NYC, Chicago",
+      "allLocations": "Chicago (HQ) | London | NYC",
+      "type": "Prop Trading Firm / Market Maker",
+      "tier": "B",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Paloma Partners",
+      "city": "NYC",
+      "allLocations": "Greenwich, CT (HQ) | NYC | London | Singapore",
+      "type": "Hedge Fund / Prop",
+      "tier": "B",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Peak6",
+      "city": "Chicago",
+      "allLocations": "Chicago (HQ) | All US | Switzerland",
+      "type": "Prop Trading Firm / Investment Firm",
+      "tier": "B",
+      "careersUrl": "https://www.peak6.com/careers/",
+      "status": "closed"
+    },
+    {
+      "name": "Pharo Management",
+      "city": "NYC",
+      "allLocations": "London (HQ) | NYC",
+      "type": "Hedge Fund (Macro)",
+      "tier": "B",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Quantbot Technologies",
+      "city": "NYC",
+      "allLocations": "NYC (HQ) | London",
+      "type": "Hedge Fund (Quant)",
+      "tier": "B",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Third Point",
+      "city": "NYC",
+      "allLocations": "NYC (HQ) | LA | Stamford | HK",
+      "type": "Hedge Fund",
+      "tier": "C",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Tradelink Holdings",
+      "city": "Chicago",
+      "allLocations": "Chicago",
+      "type": "Prop Trading Firm",
+      "tier": "C",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Trillium Trading",
+      "city": "NYC, Chicago",
+      "allLocations": "NYC (HQ) | Chicago | Miami",
+      "type": "Prop Trading Firm",
+      "tier": "C",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Valkyrie Trading",
+      "city": "Chicago",
+      "allLocations": "Chicago",
+      "type": "Prop Trading Firm",
+      "tier": "C",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Winton Capital Management",
+      "city": "NYC",
+      "allLocations": "London (HQ) | NYC | HK | Sydney",
+      "type": "Hedge Fund (Quant)",
+      "tier": "C",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "XR Trading",
+      "city": "NYC, Chicago (All US)",
+      "allLocations": "Chicago (HQ) | All US | London",
+      "type": "Prop Trading Firm",
+      "tier": "C",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Anchorage Capital",
+      "city": "NYC",
+      "allLocations": "NYC (HQ) | London",
+      "type": "Hedge Fund (Credit/Distressed)",
+      "tier": "C",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Capstone Investment Advisors",
+      "city": "NYC",
+      "allLocations": "NYC (HQ) | Boston",
+      "type": "Hedge Fund (Volatility)",
+      "tier": "C",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Consolidated Trading",
+      "city": "Chicago",
+      "allLocations": "Chicago",
+      "type": "Prop Trading Firm",
+      "tier": "C",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "G-Research",
+      "city": "NYC",
+      "allLocations": "London (HQ) | NYC",
+      "type": "Quant Research Firm",
+      "tier": "C",
+      "careersUrl": "https://www.gresearch.com/careers/",
+      "status": "closed"
+    },
+    {
+      "name": "Grahm Capital Management",
+      "city": "NYC",
+      "allLocations": "Greenwich, CT (HQ) | NYC | CT | Palm Beach | London",
+      "type": "Hedge Fund (Macro)",
+      "tier": "C",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "HAP Capital",
+      "city": "NYC",
+      "allLocations": "NYC",
+      "type": "Prop Trading Firm",
+      "tier": "C",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Istra Research",
+      "city": "NYC",
+      "allLocations": "NYC | Israel",
+      "type": "Quant Research Firm",
+      "tier": "C",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "QVT Financial",
+      "city": "NYC",
+      "allLocations": "Greenwich, CT | NYC",
+      "type": "Hedge Fund",
+      "tier": "C",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Quant Lab",
+      "city": "NYC",
+      "allLocations": "Houston (HQ) | Denver | Austin | NYC | Singapore",
+      "type": "Prop Trading Firm / Quant",
+      "tier": "C",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "ReadyState Asset Management",
+      "city": "NYC, Chicago",
+      "allLocations": "Chicago (HQ) | NYC",
+      "type": "Quant Asset Manager",
+      "tier": "C",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Sunrise Futures",
+      "city": "Chicago",
+      "allLocations": "Chicago",
+      "type": "Prop Trading Firm",
+      "tier": "C",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "TransMarket Group (TMG)",
+      "city": "Chicago",
+      "allLocations": "Chicago (HQ) | Switzerland",
+      "type": "Prop Trading Firm",
+      "tier": "C",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Vatic Labs",
+      "city": "NYC",
+      "allLocations": "NYC",
+      "type": "Prop Trading Firm / Quant",
+      "tier": "C",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Lone Pine Capital",
+      "city": "NYC",
+      "allLocations": "Greenwich, CT (HQ) | NYC",
+      "type": "Hedge Fund (Long/Short Equity)",
+      "tier": "D",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Wolverine Trading",
+      "city": "NYC, Chicago",
+      "allLocations": "Chicago (HQ) | NYC | SF | London",
+      "type": "Prop Trading Firm",
+      "tier": "D",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Alyeska Investment Group",
+      "city": "NYC",
+      "allLocations": "Chicago (HQ) | NYC | London | Tokyo",
+      "type": "Hedge Fund",
+      "tier": "F",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Viking Global Advisors",
+      "city": "NYC",
+      "allLocations": "Greenwich, CT (HQ) | NYC | Stamford | London | HK",
+      "type": "Hedge Fund (Long/Short Equity)",
+      "tier": "F",
+      "careersUrl": null,
+      "status": "unknown"
+    },
+    {
+      "name": "Volant Trading",
+      "city": "NYC, Chicago",
+      "allLocations": "NYC (HQ) | Chicago | HK",
+      "type": "Prop Trading Firm",
+      "tier": "F",
+      "careersUrl": null,
+      "status": "unknown"
+    }
   ]
 }
